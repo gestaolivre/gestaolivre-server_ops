@@ -1,0 +1,24 @@
+# Basics
+*.py[cod]
+*.pyc
+__pycache__
+
+# Logs
+*.log
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+*.pot
+
+# Local Enviroment Variables
+.env
+
+# Generated files
+/docs/_site
+/docs/Gemfile.lock
