@@ -1,0 +1,11 @@
+# Django
+Django==1.10.6
+
+# API
+djangorestframework==3.6.2
+
+# Postgres
+psycopg2==2.7.1
+
+# Configuration
+django-environ==0.4.1
