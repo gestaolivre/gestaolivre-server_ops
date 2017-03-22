@@ -12,4 +12,5 @@ Adicione um arquivo `.env` com o seguinte conteúdo na raiz do projeto
 DEBUG=on
 SECRET_KEY=dev-secret-key
 DATABASE_URL=postgres://postgres:postgres@localhost:5432/postgres
+CACHE_URL=redis://localhost:6379/0
 ```

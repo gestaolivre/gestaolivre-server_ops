@@ -41,7 +41,6 @@ SECRET_KEY = env('SECRET_KEY')              # Raises ImproperlyConfigured except
 
 CACHES = {
     'default': env.cache(),
-    'redis': env.cache('REDIS_URL')
 }
 
 

@@ -9,3 +9,6 @@ psycopg2==2.7.1
 
 # Configuration
 django-environ==0.4.1
+
+# Cache
+django-redis==4.7.0
